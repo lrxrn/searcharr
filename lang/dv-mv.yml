@@ -31,7 +31,7 @@ all_seasons: ހުރިހާ ސީޒަންތަކެއް
 first_season: ފުރަތަމަ ސީޒަން އެކަނި
 latest_season: އެންމެ ފަހު ސީޒަން އެކަނި
 added: ކާމިޔާބުކަމާއެކު {title} އިތުރުކޮށްފި!
-unknown_error_adding: {kind} އިތުރުކުރަމުން ދަނިކޮށް ކަނޑައެޅިފައި ނުވާ ގޯހެއް ދިމާވެއްޖެ!
+unknown_error_adding: . {kind} އިތުރުކުރަމުން ދަނިކޮށް ކަނޑައެޅިފައި ނުވާ ގޯހެއް ދިމާވެއްޖެ!
 removed_user: ޔޫޒަރ އައިޑީ [{user}] އަށް ހުރިހާ އެކްސެސްއެއް ކާމިޔާބުކަމާއެކު ނައްތާލެވިއްޖެ!
 unknown_error_removing_user: ޔޫޒަރ އައިޑީ [{user}] ނައްތާލުމުގެ ތެރޭގައި ކަނޑައެޅިފައި ނުވާ ގޯހެއް ދިމާވެއްޖެ!
 added_admin_access: ޔޫޒަރ އައިޑީ [{user}] އަށް އެޑްމިން އެކްސެސް އިތުރުކޮށްފި!
@@ -45,8 +45,8 @@ finished_tagging_button: ޓެގް ކުރުން ނިމިއްޖެ
 monitor_button: މޮނީޓަރު {option}
 add_quality_button: "އިތުރު ކޮލިޓީ: {quality}"
 add_language_button: "އިތުރު ބަސް: {language}"
-add_path_button: {path} އަށް އިތުރުކުރުން.
-add_button: {path} އިތުރުކުރައްވާ!
+add_path_button: . {path} އަށް އިތުރުކުރުން.
+add_button: . {path} އިތުރުކުރައްވާ!
 already_added_button: ކުރީގައިވަނީ އިތުރުކޮށްފައި!
 cancel_search_button: ހޯދުން ކެންސަލް!
 add_series_anime_button: އެނިމޭ ޓައިޕްގެ ގޮތުގައި ސީރީޒް އެޑް ކުރާށެވެ!
